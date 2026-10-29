@@ -6,11 +6,11 @@
 
 A tiny ExtendScript panel that turns subtitle files into timecode-synced, fully editable text layers in Adobe After Effects — no plugins, no dependencies, no fuss.
 
-[![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
-[![ExtendScript](https://img.shields.io/badge/ExtendScript-ES3-FFD966?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![SRT](https://img.shields.io/badge/Input-.srt-4CAF50?style=for-the-badge&logo=files&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-GPLv3-2C6BED?style=for-the-badge&logo=gnu&logoColor=white)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-macOS_%2B_Windows-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
+[![After Effects](https://img.shields.io/badge/%F0%9F%8E%AC_After_Effects-9999FF?style=for-the-badge)](https://www.adobe.com/products/aftereffects.html)
+![ExtendScript](https://img.shields.io/badge/%F0%9F%A7%A9_ExtendScript-ES3-8A6D3B?style=for-the-badge)
+![SRT](https://img.shields.io/badge/%F0%9F%93%84_Input-.srt-4CAF50?style=for-the-badge)
+[![License](https://img.shields.io/badge/%E2%9A%96%EF%B8%8F_License-GPLv3-2C6BED?style=for-the-badge)](LICENSE)
+![Platform](https://img.shields.io/badge/%F0%9F%92%BB_Platform-macOS_%2B_Windows-333333?style=for-the-badge)
 
 </div>
 
