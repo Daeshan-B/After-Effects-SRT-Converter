@@ -1,6 +1,6 @@
 <div align="center">
 
-# AE-Captioner
+# After Effects SRT Converter
 
 **Drop an `.srt` in. Get timed text layers out.**
 
